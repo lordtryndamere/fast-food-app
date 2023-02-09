@@ -1,7 +1,7 @@
 defaultnames:
   names:
-    name: defaultNameDev
-    description: defaultDescriptionDev
+    name: defaultNameDevTry2
+    description: defaultDescriptionDevTry2
 
 enable-audit: false
 #habilita los endpoints de actuator
