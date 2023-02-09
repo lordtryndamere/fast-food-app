@@ -1,0 +1,8 @@
+name: { "name": "DefaultNameRestDev", "description": "defaultDesDev" }
+enable-audit: false
+#habilita los endpoints de actuator
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"

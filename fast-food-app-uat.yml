@@ -1,0 +1,10 @@
+server:
+  port: 8081
+name: { "name": "DefaultNameRestUat", "description": "defaultDesUat" }
+enable-audit: true
+#habilita los endpoints de actuator
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
