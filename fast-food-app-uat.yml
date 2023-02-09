@@ -1,6 +1,8 @@
 server:
   port: 8081
-name: { "name": "DefaultNameRestUat", "description": "defaultDesUat" }
+defaultnames:
+  name: defaultNameUAT
+  description: defaultDescriptionUAT
 enable-audit: true
 #habilita los endpoints de actuator
 management:

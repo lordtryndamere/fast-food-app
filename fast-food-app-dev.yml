@@ -1,4 +1,7 @@
-name: { "name": "DefaultNameRestDev", "description": "defaultDesDev" }
+defaultnames:
+  name: defaultNameDev
+  description: defaultDescriptionDev
+
 enable-audit: false
 #habilita los endpoints de actuator
 management:
