@@ -1,8 +1,9 @@
 server:
   port: 8081
 defaultnames:
-  name: defaultNameUAT
-  description: defaultDescriptionUAT
+  names:
+    name: defaultNameUAT
+    description: defaultDescriptionUAT
 enable-audit: true
 #habilita los endpoints de actuator
 management:
