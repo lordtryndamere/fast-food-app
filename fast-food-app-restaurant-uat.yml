@@ -2,8 +2,8 @@ server:
   port: 8081
 defaultnames:
   names:
-    name: defaultNameUAT
-    description: defaultDescriptionUAT
+    name: restaurantNewDev
+    description: restaurantNewUat
 enable-audit: true
 #habilita los endpoints de actuator
 management:
